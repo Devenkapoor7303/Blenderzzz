@@ -1,0 +1,30 @@
+.text{
+    color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+}
+h1,p,em,h5{
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+}
+.logo{
+    text-align: center;
+    margin-top: 170px;
+}
+.blender{
+    z-index: 1;
+}
+.body-1{
+    background-color: #1e2022;
+    padding: 4%;
+}
+.body-2{
+    background-color: #1b262c;
+    height: 300px;
+    
+}
+.body-3{
+    background-color: #303841;
+    height: 300px;
+    
+}
